@@ -10,3 +10,5 @@ OBS supports automatic switching based on mouse activity, but not camera activit
 * wacomSetup.sh - Shell script to setup wacom on linux dual monitor setup
 
 * Art_Studio_Dual.sh - Shell script to setup dual monitor setup in my art studio
+
+* cubeToy.py - A simple 3D spinning cube with speed controls using only standard python
